@@ -1,0 +1,98 @@
+[
+  {
+    "title": "Making a Simple Strapi Plugin",
+    "url": "https://strapi.io/blog/making-a-simple-strapi-plugin",
+    "platform": "Strapi",
+    "image": "https://delicate-dawn-ac25646e6d.media.strapiapp.com/Image_Media_Section_Strapi_1_Icon_ff891364e0.jpg"
+  },
+  {
+    "title": "Author Profile: Ath Tripathi (78 Articles)",
+    "url": "https://www.tutorialspoint.com/authors/ath-tripathi",
+    "platform": "Tutorialspoint",
+    "image": "https://www.tutorialspoint.com/assets/profiles/369825/profile/200_399733-1632734314.png"
+  },
+  {
+    "title": "Next-generation Image Handling with Webiny File Manager",
+    "url": "https://www.webiny.com/blog/next-generation-image-handling-webiny-cms",
+    "platform": "Webiny",
+    "image": "https://d1mjtaoiepp9z3.cloudfront.net/files/682c56633bf3810002343bcd/Capture_copy.png"
+  },
+  {
+    "title": "Enable Multiple OTP Methods in your Django Application with Twilio",
+    "url": "https://www.twilio.com/en-us/blog/enable-multiple-otp-methods-django",
+    "platform": "Twilio",
+    "image": "https://www.twilio.com/content/dam/twilio-com/global/en/blog/legacy/2022/enable-multiple-otp-methods-django/Sx8A8zhZyPLYt0qduluJkkK4URedOXizwnY1rrNAjtIdBI5EqLRDcwcWsdt2GpiiKBsv0ttNpFrINU.png"
+  },
+  {
+    "title": "Getting Started with AR Development: Tools, Software, and Languages You Should Know",
+    "url": "https://athtripathi.medium.com/getting-started-with-ar-development-tools-software-and-languages-you-should-know-8e993dd1d488",
+    "platform": "Medium",
+    "image": "https://miro.medium.com/v2/resize:fit:1100/format:webp/0*w_vQyRZOW-1svZQ6"
+  },
+  {
+    "title": "Making Django Website Faster Than Before Just Using Simple Tricks",
+    "url": "https://medium.com/geekculture/making-django-website-faster-than-before-just-using-simple-tricks-7cbe86df281",
+    "platform": "Medium",
+    "image": "https://miro.medium.com/v2/resize:fit:1100/format:webp/1*ZjJwpEXpj4Q9I-b5Hjmytw.jpeg"
+  },
+  {
+    "title": "Make Beautiful E-Commerce Card",
+    "url": "https://medium.com/geekculture/make-beautiful-ecommerce-card-8cfe10e588dd",
+    "platform": "Medium",
+    "image": "https://miro.medium.com/v2/resize:fit:1100/format:webp/1*XF0ACdxtBwMfcx5IarOBxA.png"
+  },
+  {
+    "title": "Using Django With React: Creating the Best Frontend and Backend Combination",
+    "url": "https://medium.com/geekculture/using-django-with-react-creating-best-frontend-and-backend-combination-12c6f8c9192e",
+    "platform": "Medium",
+    "image": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*E3sI88KfRXCeYI6cNiX_pg.png"
+  },
+  {
+    "title": "Top 5 Unique Blockchain Products in the Last 5 Years",
+    "url": "https://studentsxstudents.com/top-5-unique-blockchain-products-in-the-last-5-years-46ed6fb49a85",
+    "platform": "Students x Students",
+    "image": "https://miro.medium.com/v2/resize:fit:1100/format:webp/0*FaNWBRSdi9qc0f79"
+  },
+  {
+    "title": "How Augmented Reality is Changing the World (and Companies Are Using It)",
+    "url": "https://medium.com/geekculture/how-augmented-reality-is-changing-the-world-and-companies-are-using-it-a650b60f6f12",
+    "platform": "Medium",
+    "image": "https://miro.medium.com/v2/resize:fit:1100/format:webp/0*wNwxpxCGYqm2VVJq"
+  },
+  {
+    "title": "Explaining Metaverse Token: What Is It and Why to Use It?",
+    "url": "https://medium.com/geekculture/explaining-metaverse-token-what-is-it-and-why-to-use-it-c0692352c573",
+    "platform": "Medium",
+    "image": "https://miro.medium.com/v2/resize:fit:1100/format:webp/0*uoGJJxheIRR8Ut8U"
+  },
+  {
+    "title": "The Concept of Virtual Reality",
+    "url": "https://medium.com/geekculture/the-concept-of-virtual-reality-6ef58cbb9ac4",
+    "platform": "Medium",
+    "image": "https://miro.medium.com/v2/resize:fit:1100/format:webp/0*1cgrr7F5sm41SpL6"
+  },
+  {
+    "title": "Making a Real World End-to-End Project Using Django and Cloud Storage (Fauna DB) Part 2",
+    "url": "https://medium.com/geekculture/making-a-real-world-end-to-end-project-using-django-and-cloud-storage-fauna-db-part-2-ba826d1a9415",
+    "platform": "Medium",
+    "image": "https://miro.medium.com/v2/resize:fit:1100/format:webp/0*oqWAaGCFXi1Xkktj"
+  },
+  {
+    "title": "Making a Real World End-to-End Project Using Django and Cloud Storage (Fauna DB) Part 1",
+    "url": "https://medium.com/geekculture/making-a-real-world-end-to-end-project-using-django-and-cloud-storage-fauna-db-part-1-b89011b8466c",
+    "platform": "Medium",
+    "image": "https://miro.medium.com/v2/resize:fit:1100/format:webp/0*ZrV8bdCXOOJZ8Yft"
+  },
+  {
+    "title": "Making a Very Basic Portfolio 3D Object Website Using React and Three Fiber",
+    "url": "https://medium.com/geekculture/making-a-very-basic-portfolio-3d-object-website-using-react-and-three-fiber-d2673e620dac",
+    "platform": "Medium",
+    "image": "https://miro.medium.com/v2/resize:fit:1100/format:webp/1*haKSSnLmkRA4PMzbC4SxgQ.png"
+  },
+  {
+    "title": "Using OpenPose Library in Python with OpenPose, TensorFlow, and OpenCV",
+    "url": "https://medium.com/geekculture/using-openpose-library-in-python-with-openpose-tensorflow-and-opencv-10a5496c359a",
+    "platform": "Medium",
+    "image": "https://miro.medium.com/v2/resize:fit:538/format:webp/1*ofGaVYl5f-CY4vj-XjR_Bg.jpeg"
+  }
+]
